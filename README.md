@@ -37,7 +37,7 @@ This script employs a cron-scheduled Bash shell routine to monitor for potential
 
 ## Additional Considerations
 
-- **Way2SMS limitations:**
+- **Messaging API limitations:**
    - Be aware of Messagin API usage limits and potential rate limits.
    - Consider alternative SMS providers for more robust or scalable messaging.
 - **Security best practices:**
