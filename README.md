@@ -1,5 +1,3 @@
- **Here's a README.md for the intrusion detection script:**
-
 # Intrusion Detection and Alert Script
 
 ## Technical Overview
